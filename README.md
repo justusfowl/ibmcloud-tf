@@ -1,6 +1,7 @@
 # Evaluating Terraform on IBM Cloud
 This repository contains demo code for deploying infrastructure on ibm cloud via terraform (iaas).
 
+Reference architecture: 
 ![IBM Cloud Reference Architecture](https://1.cms.s81c.com/sites/default/files/2021-07-28/secure-roks-cluster.jpg)
 
 ## Objective
